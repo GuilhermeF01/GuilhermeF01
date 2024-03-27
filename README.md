@@ -6,7 +6,7 @@
 
 🌐 Tenho experiência em trabalhar com Python, SQL, Excel e suas bibliotecas para Ciência de Dados e Machine Learning<br>
 🎲 Trabalho como Analista Financeiro na empresa Extreme Reach <br>
-<p align="center"> <img src = https://i.ibb.co/qkD8t2J/Screen2.png> Fiz um Bootcamp em Data Science pela Le Wagon e continuo aprimorando meus conhecimentos <br>
+<img src = https://i.ibb.co/qkD8t2J/Screen2.png> Fiz um Bootcamp em Data Science pela Le Wagon e continuo aprimorando meus conhecimentos <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para guilhermefragacontato@gmail.com <br>
 <br>
 
