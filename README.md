@@ -10,8 +10,6 @@
 📧 Quer entrar em contato comigo? Envie um e-mail para guilhermefragacontato@gmail.com <br>
 <br>
 
-<br>
-
 ## Sobre mim:
 
 Olá! Meu nome é Guilherme, tenho 26 anos e sou estudante de ciência de dados pela Le Wagon e Autodidata. Já estou no mercado há 5 anos atuando como Analista financeiro desde os 21 anos.<br>
@@ -24,8 +22,6 @@ Machine Learning (Modelos supervisionados, não supervisionados, deep learning e
 Estatística descritiva e inferencial aplicada à análise de dados
 Excel e PowerBI
 Git & Version Control
-<br>
-
 <br>
 
 ### Soft Skills:
