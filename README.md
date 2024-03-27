@@ -38,8 +38,6 @@ Aprendo muito rápido
 Autodidata
 <br>
 
-<br>
-
 Quanto aos idiomas, sou fluente em português, possuo inglês Intermediario.
 
 ## Produção de Conteúdo:
