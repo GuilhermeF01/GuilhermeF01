@@ -13,7 +13,7 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Guilherme, tenho 26 anos e sou estudante de ciência de dados pela Le Wagon e Autodidata. Já estou no mercado há 5 anos atuando como Analista financeiro desde os 21 anos.<br>
+Olá! Meu nome é Guilherme, tenho 27 anos e sou estudante de ciência de dados e Autodidata. Já estou no mercado há 5 anos atuando como Analista financeiro desde os 21 anos.<br>
 
 ### Hard Skills:
 
